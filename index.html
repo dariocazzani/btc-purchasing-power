@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BTC Purchasing Power</title>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>BTC Purchasing Power</h1>
+        <p class="subtitle">How much can 1 BTC buy over time?</p>
+    </header>
+
+    <main>
+        <section class="controls">
+            <label>
+                <input type="checkbox" id="log-scale" checked>
+                Logarithmic scale
+            </label>
+        </section>
+
+        <section class="chart-container">
+            <div id="chart-btc-usd" class="chart"></div>
+        </section>
+
+        <section class="chart-container">
+            <div id="chart-gold" class="chart"></div>
+        </section>
+
+        <section class="chart-container">
+            <div id="chart-sp500" class="chart"></div>
+        </section>
+
+        <section class="chart-container">
+            <div id="chart-housing-us" class="chart"></div>
+        </section>
+
+        <section class="chart-container">
+            <div id="chart-housing-northeast" class="chart"></div>
+        </section>
+
+        <section class="chart-container">
+            <div id="chart-housing-midwest" class="chart"></div>
+        </section>
+
+        <section class="chart-container">
+            <div id="chart-housing-south" class="chart"></div>
+        </section>
+
+        <section class="chart-container">
+            <div id="chart-housing-west" class="chart"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Data sources: Yahoo Finance, FRED | Last updated: <span id="last-updated">—</span></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,270 @@
+{
+  "asset": "housing_west",
+  "updated_at": "2025-12-15T16:10:29.208619",
+  "data": [
+    {
+      "date": "2014-09-30",
+      "btc_price": 386.94,
+      "asset_price": 327500.0,
+      "asset_per_btc": 846.3757024101
+    },
+    {
+      "date": "2014-12-31",
+      "btc_price": 320.19,
+      "asset_price": 355400.0,
+      "asset_per_btc": 1109.955581751
+    },
+    {
+      "date": "2015-03-31",
+      "btc_price": 244.22,
+      "asset_price": 347200.0,
+      "asset_per_btc": 1421.6457079907
+    },
+    {
+      "date": "2015-06-30",
+      "btc_price": 263.07,
+      "asset_price": 341000.0,
+      "asset_per_btc": 1296.2231317246
+    },
+    {
+      "date": "2015-09-30",
+      "btc_price": 236.06,
+      "asset_price": 330800.0,
+      "asset_per_btc": 1401.338657211
+    },
+    {
+      "date": "2015-12-31",
+      "btc_price": 430.57,
+      "asset_price": 370300.0,
+      "asset_per_btc": 860.0287805804
+    },
+    {
+      "date": "2016-03-31",
+      "btc_price": 416.73,
+      "asset_price": 350800.0,
+      "asset_per_btc": 841.7940597168
+    },
+    {
+      "date": "2016-06-30",
+      "btc_price": 673.34,
+      "asset_price": 380000.0,
+      "asset_per_btc": 564.3533833039
+    },
+    {
+      "date": "2016-09-30",
+      "btc_price": 609.73,
+      "asset_price": 368600.0,
+      "asset_per_btc": 604.5249310854
+    },
+    {
+      "date": "2016-12-31",
+      "btc_price": 963.74,
+      "asset_price": 371100.0,
+      "asset_per_btc": 385.0611701799
+    },
+    {
+      "date": "2017-03-31",
+      "btc_price": 1071.79,
+      "asset_price": 372500.0,
+      "asset_per_btc": 347.5494139933
+    },
+    {
+      "date": "2017-06-30",
+      "btc_price": 2480.84,
+      "asset_price": 386300.0,
+      "asset_per_btc": 155.7133818845
+    },
+    {
+      "date": "2017-09-30",
+      "btc_price": 4338.71,
+      "asset_price": 385500.0,
+      "asset_per_btc": 88.8512953091
+    },
+    {
+      "date": "2017-12-31",
+      "btc_price": 14156.4,
+      "asset_price": 409700.0,
+      "asset_per_btc": 28.9409728953
+    },
+    {
+      "date": "2018-03-31",
+      "btc_price": 6973.53,
+      "asset_price": 408000.0,
+      "asset_per_btc": 58.5069559563
+    },
+    {
+      "date": "2018-06-30",
+      "btc_price": 6404.0,
+      "asset_price": 423400.0,
+      "asset_per_btc": 66.1149281699
+    },
+    {
+      "date": "2018-09-30",
+      "btc_price": 6625.56,
+      "asset_price": 408600.0,
+      "asset_per_btc": 61.6702582705
+    },
+    {
+      "date": "2018-12-31",
+      "btc_price": 3742.7,
+      "asset_price": 404300.0,
+      "asset_per_btc": 108.0236066286
+    },
+    {
+      "date": "2019-03-31",
+      "btc_price": 4105.4,
+      "asset_price": 402000.0,
+      "asset_per_btc": 97.9197104426
+    },
+    {
+      "date": "2019-06-30",
+      "btc_price": 10817.16,
+      "asset_price": 411400.0,
+      "asset_per_btc": 38.0321803284
+    },
+    {
+      "date": "2019-09-30",
+      "btc_price": 8293.87,
+      "asset_price": 399600.0,
+      "asset_per_btc": 48.1801726402
+    },
+    {
+      "date": "2019-12-31",
+      "btc_price": 7193.6,
+      "asset_price": 417500.0,
+      "asset_per_btc": 58.0377072689
+    },
+    {
+      "date": "2020-03-31",
+      "btc_price": 6438.64,
+      "asset_price": 411900.0,
+      "asset_per_btc": 63.9730921626
+    },
+    {
+      "date": "2020-06-30",
+      "btc_price": 9137.99,
+      "asset_price": 402400.0,
+      "asset_per_btc": 44.035927011
+    },
+    {
+      "date": "2020-09-30",
+      "btc_price": 10784.49,
+      "asset_price": 404100.0,
+      "asset_per_btc": 37.4704742297
+    },
+    {
+      "date": "2020-12-31",
+      "btc_price": 29001.72,
+      "asset_price": 429200.0,
+      "asset_per_btc": 14.7991219002
+    },
+    {
+      "date": "2021-03-31",
+      "btc_price": 58918.83,
+      "asset_price": 476600.0,
+      "asset_per_btc": 8.0890944978
+    },
+    {
+      "date": "2021-06-30",
+      "btc_price": 35040.84,
+      "asset_price": 478900.0,
+      "asset_per_btc": 13.666911396
+    },
+    {
+      "date": "2021-09-30",
+      "btc_price": 43790.89,
+      "asset_price": 509200.0,
+      "asset_per_btc": 11.6279880886
+    },
+    {
+      "date": "2021-12-31",
+      "btc_price": 46306.45,
+      "asset_price": 541100.0,
+      "asset_per_btc": 11.6851983854
+    },
+    {
+      "date": "2022-03-31",
+      "btc_price": 45538.68,
+      "asset_price": 560100.0,
+      "asset_per_btc": 12.2994353786
+    },
+    {
+      "date": "2022-06-30",
+      "btc_price": 19784.73,
+      "asset_price": 580000.0,
+      "asset_per_btc": 29.3155428844
+    },
+    {
+      "date": "2022-09-30",
+      "btc_price": 19431.79,
+      "asset_price": 555300.0,
+      "asset_per_btc": 28.5768849288
+    },
+    {
+      "date": "2022-12-31",
+      "btc_price": 16547.5,
+      "asset_price": 577700.0,
+      "asset_per_btc": 34.9116263105
+    },
+    {
+      "date": "2023-03-31",
+      "btc_price": 28478.48,
+      "asset_price": 558200.0,
+      "asset_per_btc": 19.6007621982
+    },
+    {
+      "date": "2023-06-30",
+      "btc_price": 30477.25,
+      "asset_price": 543500.0,
+      "asset_per_btc": 17.8329726327
+    },
+    {
+      "date": "2023-09-30",
+      "btc_price": 26967.92,
+      "asset_price": 513200.0,
+      "asset_per_btc": 19.0300206995
+    },
+    {
+      "date": "2023-12-31",
+      "btc_price": 42265.19,
+      "asset_price": 520700.0,
+      "asset_per_btc": 12.3198317764
+    },
+    {
+      "date": "2024-03-31",
+      "btc_price": 71333.65,
+      "asset_price": 552500.0,
+      "asset_per_btc": 7.7452928891
+    },
+    {
+      "date": "2024-06-30",
+      "btc_price": 62678.29,
+      "asset_price": 529900.0,
+      "asset_per_btc": 8.4542825738
+    },
+    {
+      "date": "2024-09-30",
+      "btc_price": 63329.5,
+      "asset_price": 552200.0,
+      "asset_per_btc": 8.7194751261
+    },
+    {
+      "date": "2024-12-31",
+      "btc_price": 93429.2,
+      "asset_price": 560200.0,
+      "asset_per_btc": 5.9959839243
+    },
+    {
+      "date": "2025-03-31",
+      "btc_price": 82548.91,
+      "asset_price": 532600.0,
+      "asset_per_btc": 6.4519322398
+    },
+    {
+      "date": "2025-06-30",
+      "btc_price": 107135.34,
+      "asset_price": 531100.0,
+      "asset_per_btc": 4.9572813242
+    }
+  ]
+}

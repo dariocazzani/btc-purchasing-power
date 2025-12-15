@@ -1,0 +1,16 @@
+[project]
+name = "btc-purchasing-power"
+version = "0.1.0"
+description = "Track BTC purchasing power against various assets"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "yfinance>=0.2.40",
+    "pandas>=2.2.0",
+]
+
+[project.scripts]
+update-prices = "scripts.update_prices:main"
+
+[tool.uv]
+dev-dependencies = []
