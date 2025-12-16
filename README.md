@@ -21,12 +21,12 @@ Data is quarterly from 2010 to present.
 
 ## Live Demo
 
-Visit: `https://YOUR_USERNAME.github.io/btc-purchasing-power/`
+Visit: `https://dariocazzani.github.io/btc-purchasing-power/`
 
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/btc-purchasing-power.git
+git clone https://github.com/dariocazzani/btc-purchasing-power.git
 cd btc-purchasing-power
 uv sync
 ```
@@ -66,7 +66,7 @@ git push
 3. Choose `main` branch and `/ (root)` folder
 4. Click **Save**
 
-Your site will be live at `https://YOUR_USERNAME.github.io/btc-purchasing-power/` within a few minutes.
+Your site will be live at `https://dariocazzani.github.io/btc-purchasing-power/` within a few minutes.
 
 ## Project Structure
 
