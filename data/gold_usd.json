@@ -1,6 +1,6 @@
 {
   "asset": "gold_usd",
-  "updated_at": "2025-12-15T16:10:26.405680",
+  "updated_at": "2025-12-20T14:57:04.001737",
   "data": [
     {
       "date": "2014-09-30",
@@ -274,9 +274,9 @@
     },
     {
       "date": "2025-12-31",
-      "btc_price": 85663.27,
-      "asset_price": 4333.7,
-      "asset_per_btc": 0.0505899439
+      "btc_price": 88288.47,
+      "asset_price": 4361.4,
+      "asset_per_btc": 0.0493994285
     }
   ]
 }
